@@ -1,0 +1,17 @@
+# Changelog - Hope for All Foundation Website
+
+All notable updates and commits to this repository are recorded below:
+
+## [1.2.0] - 2026-08-12
+### Added
+- Integrated high-resolution Unsplash imagery across all pages.
+- Embedded location map on `contact.html`.
+
+## [1.1.0] - 2026-08-10
+### Added
+- Built structured form fields on `enquiry.html` for volunteer sign-ups.
+- Added mission, vision, and team member sections on `aboutus.html`.
+
+## [1.0.0] - 2026-08-05
+### Added
+- Initialized repository with basic HTML structure and navigation layout across all 5 pages.
